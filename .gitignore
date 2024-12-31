@@ -6,6 +6,7 @@ ODM_Files/
 Stop_Numbering/
 UP_DOWN/
 .ipynb_checkpoints/
+.DS_Store/
 
 *.xlsx
 *.csv
